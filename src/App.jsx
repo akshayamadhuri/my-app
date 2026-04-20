@@ -21,15 +21,14 @@ const UPI_QR = `https://api.qrserver.com/v1/create-qr-code/?size=210x210&data=${
 )}`;
 
 const SEEDS = [
-  { id:"s1", type:"image", url:"https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80", caption:"Golden hour magic ✨ Exclusive for premium members", likes:847,  comments:23, time:"2h" },
-  { id:"s2", type:"image", url:"https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80", caption:"Behind the scenes 📸 Real moments, unfiltered",       likes:1203, comments:45, time:"5h" },
-  { id:"s3", type:"image", url:"https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80", caption:"A moment frozen in time 🌿",                           likes:634,  comments:18, time:"1d" },
-  { id:"s4", type:"image", url:"https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800&q=80", caption:"Where sky meets earth 🌊",                             likes:2341, comments:67, time:"2d" },
-  { id:"s5", type:"image", url:"https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=800&q=80", caption:"New collection drop 🔥",                               likes:987,  comments:34, time:"3d" },
-  { id:"s6", type:"image", url:"https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&q=80", caption:"Nature's masterpiece 🌈",                              likes:1567, comments:52, time:"4d" },
-  { id:"s7", type:"image", url:"https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80", caption:"Peaceful mornings ☀️",                                likes:723,  comments:29, time:"5d" },
-  { id:"s8", type:"image", url:"https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80", caption:"Into the wild 🌲",                                     likes:1890, comments:71, time:"6d" },
-  { id:"s9", type:"image", url:"https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80", caption:"The summit awaits 🏔️",                                likes:3241, comments:98, time:"1w" },
+  { id:"s1", type:"image", url:"https://drive.google.com/uc?export=view&id=1mZJVw3RT0IrOzQt9TOtoUhmF2zlY6onu", caption:"Golden hour magic ✨ Exclusive for premium members", likes:847,  comments:23, time:"2h" },
+  { id:"s2", type:"image", url:"https://drive.google.com/uc?export=view&id=1iqYIYpjn-dXQdc5eI98VQO0gX62Nl4Bk", caption:"Behind the scenes 📸 Real moments, unfiltered",       likes:1203, comments:45, time:"5h" },
+  { id:"s3", type:"image", url:"https://drive.google.com/uc?export=view&id=1lgEIsVJK7K6Sp2O8EWJ8AOPtKpWN80TU", caption:"A moment frozen in time 🌿",                           likes:634,  comments:18, time:"1d" },
+  { id:"s4", type:"image", url:"https://drive.google.com/uc?export=view&id=1G9cvzfDggpbhI7sgz_BqHKGq8ZOnM6rS", caption:"Where sky meets earth 🌊",                             likes:2341, comments:67, time:"2d" },
+  { id:"s5", type:"image", url:"https://drive.google.com/uc?export=view&id=1VJmc3l9QTv1XqR1dPqpdeXl-i0HPhzdi", caption:"New collection drop 🔥",                               likes:987,  comments:34, time:"3d" },
+  { id:"s6", type:"image", url:"https://drive.google.com/uc?export=view&id=1YPd5mj9_dNHf9DVEmlHA3HY2aWabJnxB", caption:"Nature's masterpiece 🌈",                              likes:1567, comments:52, time:"4d" },
+  { id:"s7", type:"image", url:"https://drive.google.com/uc?export=view&id=1DmTENGYfMmwYd7BO1XnUzRntp55kT7RC", caption:"Peaceful mornings ☀️",                                likes:723,  comments:29, time:"5d" },
+  { id:"s9", type:"image", url:"https://drive.google.com/uc?export=view&id=1VfdkMLcEBozMwT4OWgXPxomynvh7ueJQ", caption:"The summit awaits 🏔️",                                likes:3241, comments:98, time:"1w" },
 ];
 
 // ── localStorage helpers ──────────────
