@@ -10,7 +10,7 @@ const CFG = {
   bio:         "Content Creator · Photographer · Storyteller",
   upiId:       "akshayamadh@ybl",
   upiName:     "Sunitha",
-  price:       1000,
+  price:       300,
   creatorUser: "admin",        // ← your login username
   creatorPass: "creator123",   // ← your login password (change this!)
   accessCode:  "LUMINARY2025", // ← secret code you share after payment
